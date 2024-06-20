@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c-Debug-9d0532a821f00d3966c8.json",
+					"name" : "c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/33773/OneDrive - etu.univ-tlse2.fr/BUT/S2/SAE/S2.02 - Exploration algorithmique d'un probl\u00e8me/sae2024-2-02-DanerSharifi-FR/c/cmake-build-debug",
+		"source" : "C:/Users/33773/OneDrive - etu.univ-tlse2.fr/BUT/S2/SAE/S2.02 - Exploration algorithmique d'un probl\u00e8me/sae2024-2-02-DanerSharifi-FR/c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
